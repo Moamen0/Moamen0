@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Flutter+Developer;Clean+Architecture+%C2%B7+BLoC;Building+e_commerce+right+now"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Flutter+Developer;Clean+Architecture+%C2%B7+BLoC"/>
 </p>
 
 ### `> whoami`
