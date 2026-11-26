@@ -50,7 +50,7 @@ A shopping app built on **Clean Architecture** with BLoC, Dio and Retrofit, usin
 ![BLoC](https://img.shields.io/badge/BLoC-FF7043?style=flat-square)
 ![Team](https://img.shields.io/badge/Team_of_5-ec4899?style=flat-square)
 
-A movies app built with a team of four. Includes onboarding, authentication and localization.
+A movies app built with a team of five. Includes onboarding, authentication and localization.
 
 [View repo](https://github.com/Moamen0/movies_app)
 
